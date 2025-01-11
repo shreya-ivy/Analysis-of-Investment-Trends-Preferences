@@ -37,11 +37,11 @@ I was assigned the following tasks during the internship:
 
 The following visualizations were developed to present insights from the dataset:
 
-# 1. Gender Distribution Analysis:
+# 1.Gender Distribution Analysis:
 
-    - Visualization: # Pie Chart
+- Visualization: # Pie Chart
 
-    - Insight: The dataset is distributed among male and female participants, with males constituting the majority.
+- Insight: The dataset is distributed among male and female participants, with males constituting the majority.
 
 # 2. Distribution Across Investment Avenues:
 

@@ -1,23 +1,23 @@
 # Data Visualization Internship Project - Investment Preferences Analysis
-PROJCT OVERVIEW
+# PROJCT OVERVIEW
 
 As part of my internship at Cognifyz Technologies,I worked on a data visualization projct using Microsoft Excel.The dataset analyzed contained diverse columns,including demographic detailes,investment avenues,saving objectives,reasons for investment choices & participants' expectations.This project aimed to extract actionable insights & create an interactive dashboard to present findings in a visually appealing manner.
 
-DATASET DETAILS
+# DATASET DETAILS
 
 The dataset included the following columns:
 
-Demographics: GENDER, AGE
+- Demographics: GENDER, AGE
 
-Investment Avenues: MUTUAL_FUNDS, EQUITY_MARKET, DEBENTURES, GOVERNMENT_BONDS, FIXED_DEPOSITS, PPF, GOLD, STOCK_MARKET
+- Investment Avenues: MUTUAL_FUNDS, EQUITY_MARKET, DEBENTURES, GOVERNMENT_BONDS, FIXED_DEPOSITS, PPF, GOLD, STOCK_MARKET
 
-Investment Details: FACTOR, OBJECTIVE, PURPOSE, DURATION, INVESTMENT_MONITOR, EXPECT, AVENUE, SAVING OBJECTIVES
+- Investment Details: FACTOR, OBJECTIVE, PURPOSE, DURATION, INVESTMENT_MONITOR, EXPECT, AVENUE, SAVING OBJECTIVES
 
-Reasons for Choices: REASON_EQUITY, REASON_MUTUAL, REASON_BONDS, REASON_FD
+- Reasons for Choices: REASON_EQUITY, REASON_MUTUAL, REASON_BONDS, REASON_FD
 
-Sources of Information: SOURCE
+- Sources of Information: SOURCE
 
-TASKS AND DELIVERABLES
+# TASKS AND DELIVERABLES
 
 I was assigned the following tasks during the internship:
 
@@ -33,7 +33,7 @@ I was assigned the following tasks during the internship:
 
 6. Combine selected visualizations into an interactive dashboard using slicers and charts.
 
-VISUALIZATIONS CREATED
+# VISUALIZATIONS CREATED
 
 The following visualizations were developed to present insights from the dataset:
 
@@ -91,11 +91,11 @@ The following visualizations were developed to present insights from the dataset
 
    Insight: Investment durations showed diverse expectations but no visible trends.
 
-INTERACTIVE DASHBOARD
+# INTERACTIVE DASHBOARD
 
 The dashboard was designed to present key insights effectively while allowing for interactivity. It included the following:
 
-Visualizations in the Dashboard:
+# - Visualizations in the Dashboard:
 1. Pie Chart: Gender Distribution Analysis.
 
 2. Bar Chart: Distribution of Participants Across Investment Avenues.
@@ -108,7 +108,7 @@ Visualizations in the Dashboard:
 
 6. Radar Chart: Different Expectations of Participants.
 
-Dynamic KPIs:
+# - Dynamic KPIs:
 
 Total Number of Participants
 

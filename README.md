@@ -161,6 +161,6 @@ This project allowed me to:
 
 - Extract meaningful insights from a complex dataset.
 
-- Design an # interactive # dashboard that combines aesthetics and functionality.
+- Design an #interactive #dashboard that combines aesthetics and functionality.
 
 Feel free to explore the files in this repository to understand the work process and findings in detail. Feedback and suggestions are welcome.

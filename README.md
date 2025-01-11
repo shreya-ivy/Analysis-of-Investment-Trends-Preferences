@@ -39,57 +39,57 @@ The following visualizations were developed to present insights from the dataset
 
 # 1.Gender Distribution Analysis:
 
-- Visualization:  # Pie Chart
+- Visualization: Pie Chart
 
 - Insight: The dataset is distributed among male and female participants, with males constituting the majority.
 
 # 2.Distribution Across Investment Avenues:
 
-    - Visualization:  # Bar Chart
+ - Visualization: Bar Chart
 
-    - Insight: Fixed Deposits and Mutual Funds emerged as the most popular investment avenues.
+ - Insight: Fixed Deposits and Mutual Funds emerged as the most popular investment avenues.
 
 # 3.Reasons for Investment Choices:
 
-    - Visualization:  # Stacked Bar Chart
+ - Visualization: Stacked Bar Chart
 
-    - Insight: Reasons varied significantly by avenue, with  # "low risk" being the primary factor for Fixed Deposits, while # "high returns" attracted participants to Equity Markets.
+ - Insight: Reasons varied significantly by avenue, with  # "low risk" being the primary factor for Fixed Deposits, while # "high returns" attracted participants to Equity Markets.
 
 # 4.Savings Objectives:
 
-   - Visualization:  # Donut Chart
+- Visualization: Donut Chart
 
-   - Insight: Retirement savings and children's education were the most common objectives.
+- Insight: Retirement savings and children's education were the most common objectives.
 
 # 5.Frequency of Information Sources:
 
-   - Visualization:   # Horizontal Bar Chart
+- Visualization: Horizontal Bar Chart
 
-   - Insight: Financial advisors and online platforms were the most common sources of investment information.
+- Insight: Financial advisors and online platforms were the most common sources of investment information.
 
 # 6.Investment Durations:
 
-   - Visualization:  # Histogram
+- Visualization: Histogram
 
-   - Insight: Most participants preferred short-term investments, with durations ranging between 1–5 years.
+- Insight: Most participants preferred short-term investments, with durations ranging between 1–5 years.
 
 # 7.Participants' Expectations:
 
-   - Visualization:  # Radar Chart
+- Visualization: Radar Chart
 
-   - Insight: Participants prioritized # "capital preservation" and # "moderate returns" as their primary expectations.
+- Insight: Participants prioritized # "capital preservation" and # "moderate returns" as their primary expectations.
 
 # 8.Potential Correlations:
 
-   - Visualization: #Scatter Plot (not included in the dashboard)
+- Visualization: #Scatter Plot (not included in the dashboard)
 
-   - Insight: No significant linear correlation was observed between #age, #investment durations and #expected returns.
+- Insight: No significant linear correlation was observed between #age, #investment durations and #expected returns.
 
 # 9.Relationship Between Durations and Expectations:
 
-   - Visualization: #Bubble Chart (not included in the dashboard)
+- Visualization: #Bubble Chart (not included in the dashboard)
 
-   - Insight: Investment durations showed diverse expectations but no visible trends.
+- Insight: Investment durations showed diverse expectations but no visible trends.
 
 # INTERACTIVE DASHBOARD
 

@@ -53,7 +53,7 @@ The following visualizations were developed to present insights from the dataset
 
  - Visualization: Stacked Bar Chart
 
- - Insight: Reasons varied significantly by avenue, with  # "low risk" being the primary factor for Fixed Deposits, while # "high returns" attracted participants to Equity Markets.
+ - Insight: Reasons varied significantly by avenue, with  "low risk" being the primary factor for Fixed Deposits while "high returns" attracted participants to Equity Markets.
 
 # 4.Savings Objectives:
 
@@ -77,13 +77,13 @@ The following visualizations were developed to present insights from the dataset
 
 - Visualization: Radar Chart
 
-- Insight: Participants prioritized # "capital preservation" and # "moderate returns" as their primary expectations.
+- Insight: Participants prioritized "capital preservation" and "moderate returns" as their primary expectations.
 
 # 8.Potential Correlations:
 
-- Visualization: #Scatter Plot (not included in the dashboard)
+- Visualization: Scatter Plot (not included in the dashboard)
 
-- Insight: No significant linear correlation was observed between #age, #investment durations and #expected returns.
+- Insight: No significant linear correlation was observed between age, investment durations and expected returns.
 
 # 9.Relationship Between Durations and Expectations:
 
@@ -109,7 +109,7 @@ The dashboard was designed to present key insights effectively while allowing fo
 
 6. Radar Chart: Different Expectations of Participants.
 
-# - Dynamic KPIs:
+# Dynamic KPIs:
 
 - Total Number of Participants
 

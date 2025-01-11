@@ -7,7 +7,7 @@ As part of my internship at Cognifyz Technologies,I worked on a data visualizati
 
 The dataset included the following columns:
 
-- *Demographics* : GENDER, AGE
+- #Demographics# : GENDER, AGE
 
 - Investment Avenues: MUTUAL_FUNDS, EQUITY_MARKET, DEBENTURES, GOVERNMENT_BONDS, FIXED_DEPOSITS, PPF, GOLD, STOCK_MARKET
 

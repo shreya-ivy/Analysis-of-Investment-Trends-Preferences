@@ -1,9 +1,9 @@
 # Data Visualization Internship Project - Investment Preferences Analysis
-# PROJCT OVERVIEW
+## PROJCT OVERVIEW
 
 As part of my internship at Cognifyz Technologies,I worked on a data visualization projct using Microsoft Excel.The dataset analyzed contained diverse columns,including demographic detailes,investment avenues,saving objectives,reasons for investment choices & participants' expectations.This project aimed to extract actionable insights & create an interactive dashboard to present findings in a visually appealing manner.
 
-# DATASET DETAILS
+## DATASET DETAILS
 
 The dataset included the following columns:
 

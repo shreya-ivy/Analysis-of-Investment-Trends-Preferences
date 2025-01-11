@@ -39,7 +39,7 @@ The following visualizations were developed to present insights from the dataset
 
 ### 1.Gender Distribution Analysis:
 
-- Visualization: Pie Chart
+- Visualization: **Pie Chart**
 
 - Insight: The dataset is distributed among male and female participants, with males constituting the majority.
 
@@ -83,7 +83,7 @@ The following visualizations were developed to present insights from the dataset
 
 - Visualization: **Scatter Plot** (not included in the dashboard)
 
-- Insight: No significant linear correlation was observed between **age, investment durations and expected returns.**
+- Insight: No significant linear correlation was observed between **age, investment durations** and **expected returns.**
 
 ### 9.Relationship Between Durations and Expectations:
 
@@ -133,7 +133,7 @@ The slicers made the dashboard interactive, enabling users to filter data dynami
 
 1. **Demographics:** Male participants outnumbered females significantly, highlighting a potential gender disparity in investment behaviors.
 
-2. **Investment Preferences:** Fixed Deposits and Mutual Funds were the most preferred avenues, with "low risk" and "moderate returns" being the key drivers.
+2. **Investment Preferences:** Fixed Deposits and Mutual Funds were the most preferred avenues, with **"low risk"** and **"moderate returns"** being the key drivers.
 
 3. **Savings Objectives:** Retirement savings and children's education emerged as the top financial goals for participants.
 

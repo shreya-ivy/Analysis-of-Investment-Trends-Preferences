@@ -1,26 +1,38 @@
-# Data Visualization Internship Project -Investment Preferences Analysis
+# Data Visualization Internship Project - Investment Preferences Analysis
 PROJCT OVERVIEW
 
 As part of my internship at Cognifyz Technologies,I worked on a data visualization projct using Microsoft Excel.The dataset analyzed contained diverse columns,including demographic detailes,investment avenues,saving objectives,reasons for investment choices & participants' expectations.This project aimed to extract actionable insights & create an interactive dashboard to present findings in a visually appealing manner.
+
 DATASET DETAILS
 
 The dataset included the following columns:
 
 Demographics: GENDER, AGE
+
 Investment Avenues: MUTUAL_FUNDS, EQUITY_MARKET, DEBENTURES, GOVERNMENT_BONDS, FIXED_DEPOSITS, PPF, GOLD, STOCK_MARKET
+
 Investment Details: FACTOR, OBJECTIVE, PURPOSE, DURATION, INVESTMENT_MONITOR, EXPECT, AVENUE, SAVING OBJECTIVES
+
 Reasons for Choices: REASON_EQUITY, REASON_MUTUAL, REASON_BONDS, REASON_FD
+
 Sources of Information: SOURCE
 
 Tasks and Deliverables
+
 I was assigned the following tasks during the internship:
 
 Analyze the Gender Distribution within the dataset.
+
 Analyze Participants' Investment Preferences, including the distribution across different avenues and the reasons for investment choices.
+
 Examine Savings Objectives and Common Information Sources.
+
 Analyze Investment Durations mentioned by participants and their expectations from investments.
+
 Explore Potential Correlations between factors like Age, Investment Durations, and Expected Returns.
+
 Combine selected visualizations into an interactive dashboard using slicers and charts.
+
 Visualizations Created
 The following visualizations were developed to present insights from the dataset:
 

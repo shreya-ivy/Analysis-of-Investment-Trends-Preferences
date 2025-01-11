@@ -17,7 +17,7 @@ The dataset included the following columns:
 
 - Sources of Information: SOURCE
 
-# TASKS AND DELIVERABLES
+## TASKS AND DELIVERABLES
 
 I was assigned the following tasks during the internship:
 
@@ -33,69 +33,69 @@ I was assigned the following tasks during the internship:
 
 6. Combine selected visualizations into an interactive dashboard using slicers and charts.
 
-# VISUALIZATIONS CREATED
+## VISUALIZATIONS CREATED
 
 The following visualizations were developed to present insights from the dataset:
 
-# 1.Gender Distribution Analysis:
+### 1.Gender Distribution Analysis:
 
 - Visualization: Pie Chart
 
 - Insight: The dataset is distributed among male and female participants, with males constituting the majority.
 
-# 2.Distribution Across Investment Avenues:
+### 2.Distribution Across Investment Avenues:
 
  - Visualization: Bar Chart
 
  - Insight: Fixed Deposits and Mutual Funds emerged as the most popular investment avenues.
 
-# 3.Reasons for Investment Choices:
+### 3.Reasons for Investment Choices:
 
  - Visualization: Stacked Bar Chart
 
  - Insight: Reasons varied significantly by avenue, with  "low risk" being the primary factor for Fixed Deposits while "high returns" attracted participants to Equity Markets.
 
-# 4.Savings Objectives:
+### 4.Savings Objectives:
 
 - Visualization: Donut Chart
 
 - Insight: Retirement savings and children's education were the most common objectives.
 
-# 5.Frequency of Information Sources:
+### 5.Frequency of Information Sources:
 
 - Visualization: Horizontal Bar Chart
 
 - Insight: Financial advisors and online platforms were the most common sources of investment information.
 
-# 6.Investment Durations:
+### 6.Investment Durations:
 
 - Visualization: Histogram
 
 - Insight: Most participants preferred short-term investments, with durations ranging between 1–5 years.
 
-# 7.Participants' Expectations:
+### 7.Participants' Expectations:
 
 - Visualization: Radar Chart
 
 - Insight: Participants prioritized "capital preservation" and "moderate returns" as their primary expectations.
 
-# 8.Potential Correlations:
+### 8.Potential Correlations:
 
 - Visualization: Scatter Plot (not included in the dashboard)
 
 - Insight: No significant linear correlation was observed between age, investment durations and expected returns.
 
-# 9.Relationship Between Durations and Expectations:
+### 9.Relationship Between Durations and Expectations:
 
-- Visualization: #Bubble Chart (not included in the dashboard)
+- Visualization: Bubble Chart (not included in the dashboard)
 
 - Insight: Investment durations showed diverse expectations but no visible trends.
 
-# INTERACTIVE DASHBOARD
+## INTERACTIVE DASHBOARD
 
 The dashboard was designed to present key insights effectively while allowing for interactivity. It included the following:
 
-# Visualizations in the Dashboard:
+### Visualizations in the Dashboard:
 
 1. Pie Chart: Gender Distribution Analysis.
 
@@ -109,7 +109,7 @@ The dashboard was designed to present key insights effectively while allowing fo
 
 6. Radar Chart: Different Expectations of Participants.
 
-# Dynamic KPIs:
+### Dynamic KPIs:
 
 - Total Number of Participants
 
@@ -119,7 +119,7 @@ The dashboard was designed to present key insights effectively while allowing fo
 
 - Number of Female Participants
 
-# Slicers:
+### Slicers:
 
 - Gender
 
@@ -129,7 +129,7 @@ The dashboard was designed to present key insights effectively while allowing fo
 
 The slicers made the dashboard interactive, enabling users to filter data dynamically for deeper insights.
 
-# KEY INSIGHTS
+## KEY INSIGHTS
 
 1. Demographics: Male participants outnumbered females significantly, highlighting a potential gender disparity in investment behaviors.
 
@@ -141,7 +141,7 @@ The slicers made the dashboard interactive, enabling users to filter data dynami
 
 5. Expectations: Participants valued capital preservation and moderate returns over high-risk investments.
 
-# GITHUB REPOSITORY
+## GITHUB REPOSITORY
 
 This repository contains the following files:
 
@@ -153,7 +153,7 @@ This repository contains the following files:
 
 4. ReadMe: A detailed explanation of the workflow, methodology, and insights.
 
-# CONCLUSION
+## CONCLUSION
 
 This project allowed me to:
 

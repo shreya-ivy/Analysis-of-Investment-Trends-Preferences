@@ -148,7 +148,7 @@ This repository contains the following files:
 
 2. Dashboard: The Excel file with the final interactive dashboard.
 
-3.Visualizations: Screenshots and Excel charts for each analysis.
+3. Visualizations: Screenshots and Excel charts for each analysis.
 
 4. ReadMe: A detailed explanation of the workflow, methodology, and insights.
 
